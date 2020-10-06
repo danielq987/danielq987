@@ -1,6 +1,5 @@
 # hi there 👋 im daniel
 uhhh have frog
-
            (.)_(.)
         _ (   _   ) _
        / \/`-----'\/ \
