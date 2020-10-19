@@ -1,5 +1,6 @@
-# hi there 👋 im daniel
-uhhh have frog
+# Hi there 👋 I'm Daniel!
+Have a frog for now
+```
 
                (.)_(.)
             _ (   _   ) _
@@ -7,6 +8,7 @@ uhhh have frog
          __\ ( (     ) ) /__
          )   /\ \._./ /\   (
     jgs   )_/ /|\   /|\ \_(
+```
 
 <!--
 **danielq987/danielq987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
