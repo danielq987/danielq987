@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Daniel!
-Have a frog for now
 ```
 
                (.)_(.)
