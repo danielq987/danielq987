@@ -1,18 +1,11 @@
 # Hi there 👋 I'm Daniel!
-```
+![ms paint](brosss29e1.jpg)
 
-               (.)_(.)
-            _ (   _   ) _
-           / \/`-----'\/ \
-         __\ ( (     ) ) /__
-         )   /\ \._./ /\   (
-    jgs   )_/ /|\   /|\ \_(
-```
-frog
+`Completed using only a mouse and MS Paint, this is my greatest accomplishment to date 😉.`
 
 * Waterloo Student, Mechatronics Engineering
 * Interest in web development, cybersecurity, artificial intelligence, and data science
-* Outside of academics, loves osu! and Tool-Assisted Super Mario 64 Projects
+* Outside of academics, loves osu!, MS Paint, and Tool-Assisted Super Mario 64 Projects
 
 <!--
 **danielq987/danielq987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
