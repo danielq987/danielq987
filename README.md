@@ -8,6 +8,11 @@
          )   /\ \._./ /\   (
     jgs   )_/ /|\   /|\ \_(
 ```
+frog
+
+* Waterloo Student, Mechatronics Engineering
+* Interest in web development, cybersecurity, artificial intelligence, and data science
+* Outside of academics, loves osu! and Tool-Assisted Super Mario 64 Projects
 
 <!--
 **danielq987/danielq987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
