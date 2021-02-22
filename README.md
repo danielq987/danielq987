@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Daniel!
-![ms paint](brosss29e1.jpg)
+![ms paint]("/brosss29e1.jpg")
 
 `Completed using only a mouse and MS Paint, this is my greatest accomplishment to date 😉.`
 
