@@ -2,7 +2,7 @@
 
 
 * Waterloo Student, Mechatronics Engineering
-* Currently just trying to enjoy and make the short lifespan we have as humans
+* Currently just trying to enjoy and make the most out of the short lifespan we have as humans
 
 <!--
 **danielq987/danielq987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
