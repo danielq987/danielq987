@@ -1,19 +1,18 @@
-# Hi there 👋 I'm Daniel!
+# Hi There 👋 I'm Daniel!
 
 ![me](https://user-images.githubusercontent.com/67433232/133932259-d464313f-e369-45eb-b649-75602867cfae.png)
 
-Software developer and student at university of waterloo.
+Software developer and student at University of Waterloo.
 
 Currently working at Sony Playstation, previously at Dreamschools.
 
 Experienced with Python, Javascript/Typescript, React, Express, Node, and SQL.
 Also familiar with Flutter, Bash, C++, C, Rust, and other languages/tools/frameworks!
 
-* learning more about the huge tech world
-* working on branching out to artificial intelligence, computer vision, and embedded programming
-* trying to enjoy life as much as possible
-* getting into bouldering at the moment!
-
+* Learning more about the huge tech world
+* Working on branching out to artificial intelligence, computer vision, and embedded programming
+* Trying to enjoy life, try new things while I still can :)
+* In my free time I like bouldering, playing osu!, and watching anime
 
 
 <!--
