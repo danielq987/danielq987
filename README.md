@@ -6,8 +6,8 @@ Software developer and student at university of waterloo.
 
 Currently working at Sony Playstation, previously at Dreamschools.
 
-Experienced with python, javascript/typescript, react, expres, node, and sql.
-Also familiar with flutter, bash, c++, c, rust, and other languages/tools/frameworks!
+Experienced with Python, Javascript/Typescript, React, Express, Node, and SQL.
+Also familiar with Flutter, Bash, C++, C, Rust, and other languages/tools/frameworks!
 
 * learning more about the huge tech world
 * working on branching out to artificial intelligence, computer vision, and embedded programming
