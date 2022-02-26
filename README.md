@@ -2,11 +2,12 @@
 
 ![me](https://user-images.githubusercontent.com/67433232/133932259-d464313f-e369-45eb-b649-75602867cfae.png)
 
-software developer and student at university of waterloo
+Software developer and student at university of waterloo.
 
-experienced with python, javascript/typescript, react, expres, node, and sql
+Currently working at Sony Playstation, previously at Dreamschools.
 
-also familiar with flutter, bash, c++, c, rust, and other languages/tools/frameworks!
+Experienced with python, javascript/typescript, react, expres, node, and sql.
+Also familiar with flutter, bash, c++, c, rust, and other languages/tools/frameworks!
 
 * learning more about the huge tech world
 * working on branching out to artificial intelligence, computer vision, and embedded programming
