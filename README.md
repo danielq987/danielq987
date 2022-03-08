@@ -18,6 +18,7 @@ Software developer 💻 and student at University of Waterloo 🏫.
 ## 😊 WHAT DO I LIKE TO DO? (HOBBIES)
 * Bouldering 🪨
 * Making cute spreadsheets
+* Watching vtubers (I like Mumei and Ina)
 * Playing osu! rhythm game (check out my profile [here](https://osu.ppy.sh/users/10538842)) 🔴 🟠 🟡 🟢 🔵
 * Swimming 🏊
 * Tweeting away my problems 🐦
