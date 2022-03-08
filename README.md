@@ -1,19 +1,31 @@
-# Hi There 👋 I'm Daniel!
+# hello <img src="https://user-images.githubusercontent.com/67433232/133932259-d464313f-e369-45eb-b649-75602867cfae.png" width="75" align="center" />
 
-![me](https://user-images.githubusercontent.com/67433232/133932259-d464313f-e369-45eb-b649-75602867cfae.png)
-
+## WHO AM I? (DANIEL)
 Software developer and student at University of Waterloo.
 
-Currently working at Sony Playstation, previously at Dreamschools.
+## WHAT DO I DO? (WORK)
+* Currently frontend @PlayStation
+* Previously fullstack @Dreamschools
+* Firmware team member on [UWwaterloo Midnight Sun](https://www.uwmidsun.com/)
 
-Experienced with Python, Javascript/Typescript, React, Express, Node, and SQL.
-Also familiar with Flutter, Bash, C++, C, Rust, and other languages/tools/frameworks!
+*In case you're a recruiter, [here's my resume!](https://github.com/danielq987/Awesome-CV/raw/master/daniel_qu_resume.pdf)*
 
-* Learning more about the huge tech world
-* Working on branching out to artificial intelligence, computer vision, and embedded programming
-* Trying to enjoy life, try new things while I still can :)
-* In my free time I like bouldering, playing osu!, and watching anime
+## WHAT AM I WORKING ON? (COOL TECH)
+* Learning firmware programming, ML, Rust
+* Looking to contribute to popular open-source rhythm game [osu!](https://github.com/ppy/osu)
+* Building a 2-key keypad from **scratch**
 
+## WHAT DO I LIKE TO DO? (HOBBIES)
+* Bouldering
+* Making cute spreadsheets
+* Playing osu! rhythm game (check out my profile [here](https://osu.ppy.sh/users/10538842))
+* Swimming
+* Tweeting away my problems
+
+## I WANT MORE FRIENDS (PLEASE)
+* TWITTER [@danielq9871](https://twitter.com/danielq9871)
+* DISCORD blobbyliu#9508
+* Linkedin [@danielq987](https://www.linkedin.com/in/danielq987/)
 
 <!--
 **danielq987/danielq987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
