@@ -1,7 +1,7 @@
 # hello <img src="https://user-images.githubusercontent.com/67433232/133932259-d464313f-e369-45eb-b649-75602867cfae.png" width="75" align="center" />
 
 ## :shrug: WHO AM I? (DANIEL)
-Software developer 💻 and student at University of Waterloo 🏫.
+Curious software developer 💻 and student at University of Waterloo 🏫.
 
 ## 🐒 WHAT DO I DO? (WORK)
 * Currently frontend @PlayStation 🎮
