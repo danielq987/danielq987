@@ -1,6 +1,6 @@
 # Heyo, I'm Daniel
 
- > *In case you're a recruiter, [here's my resume!](https://github.com/danielq987/Awesome-CV/raw/master/daniel_qu_resume.pdf)*
+ > *In case you're a recruiter, [here's my resume!](https://csclub.uwaterloo.ca/~d3qu/daniel-qu-resume.pdf)*
 
 * I'm a Mechatronics Engineering student at the University of Waterloo
 * I enjoy exploring and learning about software development
