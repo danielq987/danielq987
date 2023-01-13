@@ -1,9 +1,10 @@
 # Heyo, I'm Daniel
 
  > *In case you're a recruiter, [here's my resume!](https://csclub.uwaterloo.ca/~d3qu/daniel-qu-resume.pdf)*
+ > *Here's my [portfolio](https://csclub.uwaterloo.ca/~d3qu/daniel-qu-portfolio.pdf) for a few select projects I am more proud of*
 
 * I'm a Mechatronics Engineering student at the University of Waterloo
-* I enjoy exploring and learning about software development
+* Previously worked at Sony PlayStation and Dreamschools
 * Hobbies: bouldering, osu!, twitter
 
 Social Media
