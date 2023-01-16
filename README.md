@@ -7,7 +7,7 @@
 * Previously worked at Sony PlayStation and Dreamschools
 * Hobbies: bouldering, osu!, twitter
 
-Social Media
+## Social Media
 * twitter: [@danielq9871](https://twitter.com/danielq9871)
 * discord: blobbyliu#9508
 * linkedin: [@danielq987](https://www.linkedin.com/in/danielq987/)
